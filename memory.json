@@ -96,23 +96,31 @@
     {
       "role": "assistant",
       "content": "arjun, you don’t have to carry this alone. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "friend, \"I am here, and I am strong\" - even in the midst of depression. We can take small steps forward. Would you like to take a 60-second break, or try a tiny step together?"
     }
   ],
   "state": {
     "safe_turns": 6,
     "motivation_used": true,
     "last_replies": [
-      "arjun, you don’t have to carry this alone. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
       "arjun, i’m here with you. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
       "arjun, let’s take this gently. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
       "arjun, i’m listening. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
       "arjun, thanks for trusting me with this. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
       "friend, i’m here with you. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
       "arjun, i’m listening. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?\n\nIf it helps, we can try a tiny step now — you choose the pace.",
-      "arjun, you don’t have to carry this alone. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?"
+      "arjun, you don’t have to carry this alone. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
+      "friend, \"I am here, and I am strong\" - even in the midst of depression. We can take small steps forward. Would you like to take a 60-second break, or try a tiny step together?"
     ],
-    "last_motivation_turn": 14,
-    "turn_index": 16,
+    "last_motivation_turn": 17,
+    "turn_index": 17,
     "motivation_mode_active": false
   }
 }
