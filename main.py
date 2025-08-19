@@ -676,6 +676,7 @@ origins = [
     "http://localhost:8080",  # your frontend
     # "http://127.0.0.1:8080",  # optional
     "https://68a49e5399505d6ac217e52d--wondrous-meringue-6daa01.netlify.app"
+    "https://therai-app.netlify.app"
 ]
 
 app.add_middleware(
