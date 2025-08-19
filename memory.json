@@ -2,48 +2,20 @@
   "name": "arjun",
   "history": [
     {
-      "role": "assistant",
-      "content": "It's wonderful to connect with you! I'm not here to evaluate how you're doing, but rather to be present with you and support you in any way I can. You've taken the first step by reaching out, and that takes a lot of courage.\n\nCan you tell me what's been on your mind lately, or what brought you to this moment of connection? Remember, I'm here to listen without judgment, and we'll take things at your pace."
+      "role": "user",
+      "content": "I am depressed today"
     },
     {
       "role": "assistant",
-      "content": "Hi there, friend. It's great to connect with you. How are you feeling today?"
+      "content": "arjun, you don’t have to carry this alone. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?"
     },
     {
       "role": "assistant",
-      "content": "I'm here to listen and get to know you better, friend. I don't have prior knowledge about you, but I'm excited to learn more about your thoughts, feelings, and experiences. Please feel free to share as much or as little as you'd like, and I'll do my best to understand and support you. What's been on your mind lately?"
+      "content": "Sorry, I couldn’t generate a proper response. You said: hello"
     },
     {
       "role": "assistant",
-      "content": "Welcome! It's wonderful to connect with you today. I'm here to listen and support you without judgment. You're not alone, and I'm here to help you explore your thoughts and feelings.\n\nHow are you feeling right now?"
-    },
-    {
-      "role": "assistant",
-      "content": "Hello there, friend. It's great to connect with you. How are you feeling today? Remember, whatever you're experiencing, it's okay to feel it. As the poet Rupi Kaur says, \"the wound is the place where the light enters you.\" What's been on your mind lately?"
-    },
-    {
-      "role": "assistant",
-      "content": "\"Sometimes it's okay to just be in the midst of a tough day.\" I'm so sorry to hear that you're feeling depressed today. It can be overwhelming to feel that way. Can you tell me a little bit more about what's been going on that's making you feel this way?"
-    },
-    {
-      "role": "assistant",
-      "content": "I'm so sorry to hear you're feeling that way. I want you to know that I'm here for you, and I care deeply about your well-being. You're not alone, and I'm here to listen without judgment.\n\nAs you're feeling overwhelmed, I want to remind you that \"you are stronger than you seem, braver than you believe, and smarter than you think\" (\"The Velveteen Rabbit\"). Can you take a deep breath with me, and let's focus on getting through this moment together?\n\nMay I ask, is there anything that's been on your mind lately that's been contributing to these feelings?"
-    },
-    {
-      "role": "assistant",
-      "content": "I'm so sorry you're feeling that way, friend. It sounds like a tremendous amount of pain and overwhelm is weighing on you. As you said, \"I just wanna die.\" Can you help me understand what's leading you to feel that way right now? What's the most unbearable thing for you in this moment?"
-    },
-    {
-      "role": "assistant",
-      "content": "I'm so sorry to hear you're feeling that way. Please know that you're not alone, and I'm here to listen and support you. \n\n\"In this darkest of moments, remember that you are strong and capable of getting through this.\"\n\nCan you tell me what's been going on that's leading you to feel this way? I'm here to listen without judgment, and I want you to know that I'm committed to keeping you safe."
-    },
-    {
-      "role": "assistant",
-      "content": "\"Feeling overwhelmed is a sign that you're feeling alive.\" I'm so glad you reached out for support. Anxiety can be a heavy burden to carry, but it's a common experience many people face. Can you tell me a bit more about what's been going on? What are some of the things that have been triggering your anxiety lately?"
-    },
-    {
-      "role": "assistant",
-      "content": "\"Sometimes, life's uncertainty can feel overwhelming.\" I'm here to listen, friend. Can you tell me more about what's been weighing on your mind? What's making you feel uncertain about what to do?"
+      "content": "Sorry, I couldn’t generate a proper response. You said: hello how are you"
     },
     {
       "role": "assistant",
@@ -55,23 +27,19 @@
     },
     {
       "role": "assistant",
-      "content": "Sorry, I couldn’t generate a proper response. You said: hello"
+      "content": "Sorry, I couldn’t generate a proper response. You said: hello how are you"
     },
     {
       "role": "assistant",
-      "content": "Sorry, I couldn’t generate a proper response. You said: hello"
+      "content": "Sorry, I couldn’t generate a proper response. You said: hello how are you"
+    },
+    {
+      "role": "user",
+      "content": "hello"
     },
     {
       "role": "assistant",
-      "content": "Sorry, I couldn’t generate a proper response. You said: hello"
-    },
-    {
-      "role": "assistant",
-      "content": "Sorry, I couldn’t generate a proper response. You said: hello"
-    },
-    {
-      "role": "assistant",
-      "content": "Sorry, I couldn’t generate a proper response. You said: hello"
+      "content": "arjun, i’m here with you. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?"
     },
     {
       "role": "assistant",
@@ -83,7 +51,15 @@
     },
     {
       "role": "user",
-      "content": "am depressed today"
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "arjun, let’s take this gently. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?"
+    },
+    {
+      "role": "user",
+      "content": "hi"
     },
     {
       "role": "assistant",
@@ -91,26 +67,52 @@
     },
     {
       "role": "user",
-      "content": "i am depressed"
+      "content": "hello"
     },
     {
       "role": "assistant",
-      "content": "friend, thanks for trusting me with this. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?"
+      "content": "arjun, thanks for trusting me with this. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?"
+    },
+    {
+      "role": "user",
+      "content": "hi"
     },
     {
       "role": "assistant",
-      "content": "Sorry, I couldn’t generate a proper response. You said: hello how are you"
+      "content": "friend, i’m here with you. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "arjun, i’m listening. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?\n\nIf it helps, we can try a tiny step now — you choose the pace."
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "arjun, you don’t have to carry this alone. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?"
     }
   ],
   "state": {
-    "safe_turns": 2,
+    "safe_turns": 6,
     "motivation_used": true,
     "last_replies": [
+      "arjun, you don’t have to carry this alone. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
+      "arjun, i’m here with you. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
+      "arjun, let’s take this gently. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
       "arjun, i’m listening. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
-      "friend, thanks for trusting me with this. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?"
+      "arjun, thanks for trusting me with this. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
+      "friend, i’m here with you. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?",
+      "arjun, i’m listening. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?\n\nIf it helps, we can try a tiny step now — you choose the pace.",
+      "arjun, you don’t have to carry this alone. What you’re feeling matters. We can go one small step at a time. Would you like me to listen a bit more, or try a 60-second grounding breath together?"
     ],
-    "last_motivation_turn": 22,
-    "turn_index": 23,
+    "last_motivation_turn": 14,
+    "turn_index": 16,
     "motivation_mode_active": false
   }
 }
